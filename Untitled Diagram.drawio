@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="JNK_8i3iyF8QHQyGoADi">
-    <mxGraphModel>
+    <mxGraphModel dx="1194" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="R2CykweeD0bcmgezL_NV-1" value="TH 1:&amp;nbsp;&lt;div&gt;SKU level SP&lt;/div&gt;&lt;div&gt;Fragile, Pallet --&amp;gt; Deny vì SKU level ko thỏa mãn --&amp;gt; SU pushback --&amp;gt; Up LTL, chuyển Carton&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R2CykweeD0bcmgezL_NV-2" value="TH 2:&amp;nbsp;&lt;div&gt;SKU level SP&lt;/div&gt;&lt;div&gt;Dims/Weight ko thỏa mãn --&amp;gt; Deny --&amp;gt; Pushback --&amp;gt; Move on shore&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R2CykweeD0bcmgezL_NV-3" value="TH 3:&amp;nbsp;&lt;div&gt;SKU level SP&lt;/div&gt;&lt;div&gt;Dims/weight thỏa mãn --&amp;gt; Chuyển carton để đổi sang LTL&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R2CykweeD0bcmgezL_NV-4" value="TH 4: In label&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;SKU level SP&lt;/span&gt;&lt;div&gt;weight báo exceed limit&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;--&amp;gt; Hỏi SU xem có ship đc lên LTL ko --&amp;gt; SU ok thì Up thẳng lên LTL --&amp;gt; in lại label&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="524.5" width="440" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

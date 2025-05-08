@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.3.0" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.1" pages="2">
   <diagram name="Page-1" id="JNK_8i3iyF8QHQyGoADi">
     <mxGraphModel dx="1194" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,107 +20,130 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zY9ShaO0Cr8Z8D4zay5s" name="Page-2">
-    <mxGraphModel dx="1404" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3y0XI3bRnRZ7rlrimRvF-1" target="3y0XI3bRnRZ7rlrimRvF-2">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3y0XI3bRnRZ7rlrimRvF-1" target="3y0XI3bRnRZ7rlrimRvF-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3y0XI3bRnRZ7rlrimRvF-1" target="3y0XI3bRnRZ7rlrimRvF-10">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3y0XI3bRnRZ7rlrimRvF-1" target="3y0XI3bRnRZ7rlrimRvF-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-1" value="SU request change LT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-1" value="SU request change LT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-2" value="Check Bulk LT hay Product LT" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-2" value="Check Bulk LT hay Product LT" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="130" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-4" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-4" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="425" y="110" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-6" value="Self Service (Yes/No) LTSS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="3y0XI3bRnRZ7rlrimRvF-4">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-6" value="Self Service (Yes/No) LTSS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="3y0XI3bRnRZ7rlrimRvF-4" vertex="1">
           <mxGeometry y="30" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-5" value="Feed Level (Parent/Child)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="3y0XI3bRnRZ7rlrimRvF-4">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-5" value="Feed Level (Parent/Child)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="3y0XI3bRnRZ7rlrimRvF-4" vertex="1">
           <mxGeometry y="60" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-7" value="LT Method (Product/Bulk LT)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="3y0XI3bRnRZ7rlrimRvF-4">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-7" value="LT Method (Product/Bulk LT)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="3y0XI3bRnRZ7rlrimRvF-4" vertex="1">
           <mxGeometry y="90" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3y0XI3bRnRZ7rlrimRvF-10" target="3y0XI3bRnRZ7rlrimRvF-12">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3y0XI3bRnRZ7rlrimRvF-10" target="3y0XI3bRnRZ7rlrimRvF-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3y0XI3bRnRZ7rlrimRvF-10" target="3y0XI3bRnRZ7rlrimRvF-15">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3y0XI3bRnRZ7rlrimRvF-10" target="3y0XI3bRnRZ7rlrimRvF-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-10" value="Check MTO" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-10" value="Check MTO" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="55" y="290" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3y0XI3bRnRZ7rlrimRvF-12" target="3y0XI3bRnRZ7rlrimRvF-18">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3y0XI3bRnRZ7rlrimRvF-12" target="3y0XI3bRnRZ7rlrimRvF-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-12" value="Not MTO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-12" value="Not MTO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-14" value="Shows 0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-14" value="Shows 0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="225" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-15" value="Not MTO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-15" value="Not MTO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-17" value="Shows 0 and 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-17" value="Shows 0 and 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="390" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3y0XI3bRnRZ7rlrimRvF-18" target="3y0XI3bRnRZ7rlrimRvF-20">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3y0XI3bRnRZ7rlrimRvF-18" target="3y0XI3bRnRZ7rlrimRvF-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3y0XI3bRnRZ7rlrimRvF-18" target="3y0XI3bRnRZ7rlrimRvF-26">
+        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3y0XI3bRnRZ7rlrimRvF-18" target="wkVU2VRFxQdZG6ksRxZ2-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-18" value="Check meet&amp;nbsp;&lt;div&gt;LT Expectations&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-18" value="Check meet&amp;nbsp;&lt;div&gt;LT Expectations&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="290" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3y0XI3bRnRZ7rlrimRvF-20" target="3y0XI3bRnRZ7rlrimRvF-22">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3y0XI3bRnRZ7rlrimRvF-20" target="3y0XI3bRnRZ7rlrimRvF-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3y0XI3bRnRZ7rlrimRvF-20" target="3y0XI3bRnRZ7rlrimRvF-29">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3y0XI3bRnRZ7rlrimRvF-20" target="3y0XI3bRnRZ7rlrimRvF-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-20" value="Lead Time Expectations&amp;nbsp;&lt;br&gt;(Waiting for SU)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-20" value="Lead Time Expectations&amp;nbsp;&lt;br&gt;(Waiting for SU)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="678" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-22" value="Tiến hành change LT&lt;br&gt;(Template ?)&lt;br&gt;Done" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-22" value="Tiến hành change LT&lt;br&gt;(Template ?)&lt;br&gt;Done" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="868" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-23" value="Meet Ep" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-23" value="Meet Ep" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="615" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-25" value="SU agrees" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-25" value="SU agrees" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="798" y="301" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-26" value="Lead Time Expectations&amp;nbsp;&lt;br&gt;(Waiting for SU)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-28" value="SU ko meet Ep" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="470" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-28" value="SU ko meet Ep" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="390" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-29" value="Hỏi SU cung cấp thông tin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-29" value="Hỏi SU cung cấp thông tin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="678" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-31" value="SU pushback&amp;nbsp;&lt;br&gt;cases by cases" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-31" value="SU pushback&amp;nbsp;&lt;br&gt;cases by cases" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="380" width="125" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-32" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="678" y="510" width="170" height="190" as="geometry" />
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-32" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="810" y="440" width="170" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-33" value="Lý do thay đổi lead time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="3y0XI3bRnRZ7rlrimRvF-32">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-33" value="Lý do thay đổi lead time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="3y0XI3bRnRZ7rlrimRvF-32" vertex="1">
           <mxGeometry y="30" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-34" value="Đã xác nhận việc thay đổi là phù hợp vs bên giao hàng chưa" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="3y0XI3bRnRZ7rlrimRvF-32">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-34" value="Đã xác nhận việc thay đổi là phù hợp vs bên giao hàng chưa" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="3y0XI3bRnRZ7rlrimRvF-32" vertex="1">
           <mxGeometry y="60" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-35" value="Khung thời gian mà thay đổi cần áp dụng (tạm thời hay vĩnh viễn) - chú ý Nếu thay đổi áp dụng dưới 3 tuần thì nên khuyên SU ko đổi lead times" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="3y0XI3bRnRZ7rlrimRvF-32">
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-35" value="Khung thời gian mà thay đổi cần áp dụng (tạm thời hay vĩnh viễn) - chú ý Nếu thay đổi áp dụng dưới 3 tuần thì nên khuyên SU ko đổi lead times" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="3y0XI3bRnRZ7rlrimRvF-32" vertex="1">
+          <mxGeometry y="90" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wkVU2VRFxQdZG6ksRxZ2-1" target="wkVU2VRFxQdZG6ksRxZ2-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-1" value="Check current LT setting" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="630" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-11" value="Has access" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="640" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-12" value="Self Service Update Lead Times (LTSS) template" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-13" value="Global FS&amp;amp;R Toolkit" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="780" width="170" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-14" value="Check MTO" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wkVU2VRFxQdZG6ksRxZ2-13">
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-15" value="Đã xác nhận việc thay đổi là phù hợp vs bên giao hàng chưa" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wkVU2VRFxQdZG6ksRxZ2-13">
+          <mxGeometry y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-16" value="Khung thời gian mà thay đổi cần áp dụng (tạm thời hay vĩnh viễn) - chú ý Nếu thay đổi áp dụng dưới 3 tuần thì nên khuyên SU ko đổi lead times" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wkVU2VRFxQdZG6ksRxZ2-13">
           <mxGeometry y="90" width="170" height="100" as="geometry" />
         </mxCell>
       </root>

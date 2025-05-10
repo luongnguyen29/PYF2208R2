@@ -20,7 +20,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zY9ShaO0Cr8Z8D4zay5s" name="Page-2">
-    <mxGraphModel dx="1185" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2543" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,13 +31,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3y0XI3bRnRZ7rlrimRvF-1" value="SU request change LT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="72" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3y0XI3bRnRZ7rlrimRvF-2" value="Check Bulk LT hay Product LT" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="130" width="140" height="80" as="geometry" />
+          <mxGeometry x="280" y="62" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3y0XI3bRnRZ7rlrimRvF-4" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="425" y="110" width="170" height="120" as="geometry" />
+          <mxGeometry x="425" y="42" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3y0XI3bRnRZ7rlrimRvF-6" value="Self Service (Yes/No) LTSS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="3y0XI3bRnRZ7rlrimRvF-4" vertex="1">
           <mxGeometry y="30" width="170" height="30" as="geometry" />
@@ -55,61 +55,59 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3y0XI3bRnRZ7rlrimRvF-10" value="Check MTO" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="55" y="290" width="170" height="80" as="geometry" />
+          <mxGeometry x="15" y="222" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3y0XI3bRnRZ7rlrimRvF-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3y0XI3bRnRZ7rlrimRvF-12" target="3y0XI3bRnRZ7rlrimRvF-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3y0XI3bRnRZ7rlrimRvF-12" value="Not MTO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="232" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3y0XI3bRnRZ7rlrimRvF-14" value="Shows 0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="225" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="225" y="232" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3y0XI3bRnRZ7rlrimRvF-15" value="Not MTO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="358" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3y0XI3bRnRZ7rlrimRvF-17" value="Shows 0 and 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="390" width="60" height="30" as="geometry" />
+          <mxGeometry x="40" y="313" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3y0XI3bRnRZ7rlrimRvF-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3y0XI3bRnRZ7rlrimRvF-18" target="3y0XI3bRnRZ7rlrimRvF-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3y0XI3bRnRZ7rlrimRvF-18" target="wkVU2VRFxQdZG6ksRxZ2-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3y0XI3bRnRZ7rlrimRvF-18" target="XA3_JPAQU_xIWJGxYqq2-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3y0XI3bRnRZ7rlrimRvF-18" value="Check meet&amp;nbsp;&lt;div&gt;LT Expectations&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="290" width="170" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3y0XI3bRnRZ7rlrimRvF-20" target="3y0XI3bRnRZ7rlrimRvF-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="450" y="222" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3y0XI3bRnRZ7rlrimRvF-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3y0XI3bRnRZ7rlrimRvF-20" target="3y0XI3bRnRZ7rlrimRvF-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3y0XI3bRnRZ7rlrimRvF-20" value="Lead Time Expectations&amp;nbsp;&lt;br&gt;(Waiting for SU)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="678" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-22" value="Tiến hành change LT&lt;br&gt;(Template ?)&lt;br&gt;Done" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="868" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="836" y="232" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3y0XI3bRnRZ7rlrimRvF-23" value="Meet Ep" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="615" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="615" y="232" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-25" value="SU agrees" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="798" y="301" width="60" height="30" as="geometry" />
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-28" value="SU ko meet Ep and continue to change LT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="430" y="332" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-28" value="SU ko meet Ep" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="470" y="470" width="60" height="30" as="geometry" />
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3y0XI3bRnRZ7rlrimRvF-29" target="XA3_JPAQU_xIWJGxYqq2-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595" y="547" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-29" value="Hỏi SU cung cấp thông tin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="678" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-29" value="Hỏi SU cung cấp thông tin&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255); color: rgb(255, 0, 0);&quot;&gt;&lt;strong&gt;&lt;a style=&quot;color: rgb(0, 82, 204); text-decoration-line: none; text-decoration-style: solid; text-decoration-color: rgb(0, 82, 204);&quot; rel=&quot;nofollow&quot; href=&quot;https://infohub.corp.wayfair.com/x/1YNYV#tab-Wants+Access+to+Lead+Time+Self+Service+Tool&quot;&gt;Wants Access to Lead Time Self Service Tool&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="836" y="493" width="120" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="3y0XI3bRnRZ7rlrimRvF-31" value="SU pushback&amp;nbsp;&lt;br&gt;cases by cases" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="630" y="380" width="125" height="30" as="geometry" />
+        <mxCell id="3y0XI3bRnRZ7rlrimRvF-31" value="SU pushback" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="765" y="363" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3y0XI3bRnRZ7rlrimRvF-32" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="440" width="170" height="190" as="geometry" />
+          <mxGeometry x="995" y="493" width="170" height="190" as="geometry" />
         </mxCell>
         <mxCell id="3y0XI3bRnRZ7rlrimRvF-33" value="Lý do thay đổi lead time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="3y0XI3bRnRZ7rlrimRvF-32" vertex="1">
           <mxGeometry y="30" width="170" height="30" as="geometry" />
@@ -120,31 +118,166 @@
         <mxCell id="3y0XI3bRnRZ7rlrimRvF-35" value="Khung thời gian mà thay đổi cần áp dụng (tạm thời hay vĩnh viễn) - chú ý Nếu thay đổi áp dụng dưới 3 tuần thì nên khuyên SU ko đổi lead times" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="3y0XI3bRnRZ7rlrimRvF-32" vertex="1">
           <mxGeometry y="90" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wkVU2VRFxQdZG6ksRxZ2-1" target="wkVU2VRFxQdZG6ksRxZ2-12">
+        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="wkVU2VRFxQdZG6ksRxZ2-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="407" y="670" as="targetPoint" />
+            <mxPoint x="470" y="703" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-1" value="Check current LT setting" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="630" width="130" height="80" as="geometry" />
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="XA3_JPAQU_xIWJGxYqq2-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="743" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-11" value="Has access" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="640" width="125" height="30" as="geometry" />
+        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-11" value="Has access" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="673" width="125" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-12" value="Self Service Update Lead Times (LTSS) template" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-12" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;a style=&quot;color: rgb(0, 82, 204); text-decoration-line: none; text-decoration-style: solid; text-decoration-color: rgb(0, 82, 204);&quot; rel=&quot;nofollow&quot; href=&quot;https://infohub.corp.wayfair.com/x/RI6GRg#tab-Lead+Times&quot;&gt;Self Service Update Lead Times (LTSS)&lt;/a&gt;&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="673" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-13" value="Global FS&amp;amp;R Toolkit" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="780" width="170" height="190" as="geometry" />
+        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-13" value="Global FS&amp;amp;R Toolkit" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="255" y="825" width="170" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-14" value="Check MTO" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wkVU2VRFxQdZG6ksRxZ2-13">
+        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-14" value="Check MTO" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="wkVU2VRFxQdZG6ksRxZ2-13" vertex="1">
           <mxGeometry y="30" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-15" value="Đã xác nhận việc thay đổi là phù hợp vs bên giao hàng chưa" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wkVU2VRFxQdZG6ksRxZ2-13">
+        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-15" value="Đã xác nhận việc thay đổi là phù hợp vs bên giao hàng chưa" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="wkVU2VRFxQdZG6ksRxZ2-13" vertex="1">
           <mxGeometry y="60" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-16" value="Khung thời gian mà thay đổi cần áp dụng (tạm thời hay vĩnh viễn) - chú ý Nếu thay đổi áp dụng dưới 3 tuần thì nên khuyên SU ko đổi lead times" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wkVU2VRFxQdZG6ksRxZ2-13">
+        <mxCell id="wkVU2VRFxQdZG6ksRxZ2-16" value="Khung thời gian mà thay đổi cần áp dụng (tạm thời hay vĩnh viễn) - chú ý Nếu thay đổi áp dụng dưới 3 tuần thì nên khuyên SU ko đổi lead times" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="wkVU2VRFxQdZG6ksRxZ2-13" vertex="1">
           <mxGeometry y="90" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XA3_JPAQU_xIWJGxYqq2-4" target="XA3_JPAQU_xIWJGxYqq2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XA3_JPAQU_xIWJGxYqq2-4" target="XA3_JPAQU_xIWJGxYqq2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-4" value="Check MTO&amp;nbsp;&lt;div&gt;(Global FS&amp;amp;R Toolkit)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="825" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-6" value="No access" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="760" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XA3_JPAQU_xIWJGxYqq2-7" target="XA3_JPAQU_xIWJGxYqq2-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-7" value="SU is MTO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XA3_JPAQU_xIWJGxYqq2-8" target="XA3_JPAQU_xIWJGxYqq2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-8" value="SU &lt;b&gt;KO phải MTO&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="835" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-10" value="Chỉ shows 0, ko có 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="835" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XA3_JPAQU_xIWJGxYqq2-11" target="XA3_JPAQU_xIWJGxYqq2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-11" value="Send Access to &lt;b&gt;LTSS - Need to Confirm MTO&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="835" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-13" value="Waiting SU for confirming liệu item của họ có phải MTO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="810" width="125" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XA3_JPAQU_xIWJGxYqq2-14" target="XA3_JPAQU_xIWJGxYqq2-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-14" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;a style=&quot;color: rgb(0, 82, 204); text-decoration-line: none; text-decoration-style: solid; text-decoration-color: rgb(0, 82, 204);&quot; rel=&quot;nofollow&quot; href=&quot;https://infohub.corp.wayfair.com/x/RI6GRg#tab-Lead+Times&quot;&gt;Access to LTSS - Supplier is NOT MTO&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(đơn này để báo su là sẽ update dựa trên Parcel Type Level)&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="790" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-16" value="SU confirm là NOT MTO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="810" width="125" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-17" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;a style=&quot;font-size: 14px; font-weight: bold; color: rgb(0, 82, 204); text-decoration-style: solid; text-decoration-color: rgb(0, 82, 204);&quot; rel=&quot;nofollow&quot; href=&quot;https://infohub.corp.wayfair.com/x/RI6GRg#tab-Lead+Times&quot;&gt;SKU Based Lead Time Pushback&lt;/a&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;(thuyết phục SU chấp nhận)&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="790" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-18" value="SU Pushback" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="822.5" width="125" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-20" value="SU Still want to change current setting" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="695" y="510" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XA3_JPAQU_xIWJGxYqq2-22" target="XA3_JPAQU_xIWJGxYqq2-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-22" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Submit&amp;nbsp;&lt;/span&gt;&lt;a style=&quot;color: rgb(0, 82, 204); text-decoration-line: none; text-decoration-style: solid; text-decoration-color: rgb(0, 82, 204); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0px; text-align: left; background-color: rgb(255, 255, 255);&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; class=&quot;external-link&quot; href=&quot;https://supporthub.service.csnzoo.com/plugins/servlet/desk/portal/208&quot;&gt;&lt;strong&gt;Global FS&amp;amp;R Ticket&lt;/strong&gt;&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-24" value="Global FS&amp;amp;R Ticket" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1080" width="170" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-25" value="1. Subtopic:&amp;nbsp;Request a LT Method Change”" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XA3_JPAQU_xIWJGxYqq2-24">
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-26" value="2. Supplier Name + SUID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XA3_JPAQU_xIWJGxYqq2-24">
+          <mxGeometry y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-27" value="3. Requesting access to LTSS as the the supplier’s products have been confirmed MTO&lt;div&gt;4. Submit ticket&amp;nbsp;&lt;/div&gt;&lt;div&gt;5. Link ticket to DESK ticket&lt;/div&gt;&lt;div&gt;6. Set Pause on DESK ticket until a response is given on the FS&amp;amp;R ticket&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XA3_JPAQU_xIWJGxYqq2-24">
+          <mxGeometry y="90" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-28" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;a style=&quot;color: rgb(0, 82, 204); text-decoration-line: none; text-decoration-style: solid; text-decoration-color: rgb(0, 82, 204);&quot; rel=&quot;nofollow&quot; href=&quot;https://infohub.corp.wayfair.com/x/RI6GRg#tab-Lead+Times&quot;&gt;Self Service Update Lead Times (LTSS)&lt;/a&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;template&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="993" width="120" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-30" value="LTSS access is given" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1002" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="XA3_JPAQU_xIWJGxYqq2-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="577" as="sourcePoint" />
+            <mxPoint x="535" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XA3_JPAQU_xIWJGxYqq2-42" target="XA3_JPAQU_xIWJGxYqq2-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="481" y="547" as="sourcePoint" />
+            <mxPoint x="320" y="547" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-41" value="Product Level" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="663" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-42" value="Check current Setting" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="507" width="150" height="78.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XA3_JPAQU_xIWJGxYqq2-43" target="XA3_JPAQU_xIWJGxYqq2-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-43" value="Bulk Level" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="73" y="507" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XA3_JPAQU_xIWJGxYqq2-44" target="XA3_JPAQU_xIWJGxYqq2-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-44" value="&lt;ol style=&quot;margin: 10px 0px 0px; padding-left: 22px; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li&gt;&lt;strong&gt;Submit&amp;nbsp;&lt;/strong&gt;a&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;a style=&quot;color: rgb(0, 82, 204); text-decoration-line: none; text-decoration-style: solid; text-decoration-color: rgb(0, 82, 204);&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; class=&quot;external-link&quot; href=&quot;https://supporthub.service.csnzoo.com/plugins/servlet/desk/portal/208&quot;&gt;&lt;strong&gt;Global FS&amp;amp;R Ticket&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="517" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-49" value="Global FS&amp;amp;R Ticket" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="592.5" width="170" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-50" value="1.&amp;nbsp;NA: Supplier Lead Time Settings" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XA3_JPAQU_xIWJGxYqq2-49">
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-51" value="2. Subtopic:&amp;nbsp;Request a Bulk LT Change’" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XA3_JPAQU_xIWJGxYqq2-49">
+          <mxGeometry y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-52" value="3.Add requested lead time in xx&lt;div&gt;4. Confirm leadtime type should be(SP/LP)&lt;/div&gt;&lt;div&gt;5. Submit ticket&amp;nbsp;&lt;/div&gt;&lt;div&gt;5. Link FS&amp;amp;R ticket to DESK ticket&lt;/div&gt;&lt;div&gt;6. Set Pause on DESK ticket until a response is given on the FS&amp;amp;R ticket&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XA3_JPAQU_xIWJGxYqq2-49">
+          <mxGeometry y="90" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XA3_JPAQU_xIWJGxYqq2-54" target="XA3_JPAQU_xIWJGxYqq2-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-54" value="&lt;ol style=&quot;margin: 10px 0px 0px; padding-left: 22px; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li&gt;&lt;strong style=&quot;letter-spacing: 0px;&quot;&gt;&lt;a style=&quot;color: rgb(0, 82, 204); text-decoration-line: none; text-decoration-style: solid; text-decoration-color: rgb(0, 82, 204);&quot; rel=&quot;nofollow&quot; href=&quot;https://infohub.corp.wayfair.com/x/RI6GRg#tab-Lead+Times&quot;&gt;Supplier Cannot Meet BULK Lead Time Expectation&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;template&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="508.88" width="180" height="76.25" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-56" value="Mark ticket as Done" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="510.69" width="120" height="71.12" as="geometry" />
+        </mxCell>
+        <mxCell id="XA3_JPAQU_xIWJGxYqq2-58" value="&lt;span style=&quot;text-align: left;&quot;&gt;a response is given on the FS&amp;amp;R ticket&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="508.88" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
